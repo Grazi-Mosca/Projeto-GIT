@@ -39,6 +39,6 @@
 
 ===> GIT REMOTE SHOW ORIGIN            ===> Verifica se nosso repositório local está atualizado com o repositório remoto.
 
-===> GIT PULL                          ===> Atuakliza nosso repositório local com as últimas informações do repositório remoto.
+===> GIT PULL                          ===> Atualiza nosso repositório local com as últimas informações do repositório remoto.
 
  
