@@ -36,3 +36,9 @@
 ===> GIT PUSH                          ===> Envia commits do repositório local ao remoto.
 
 ===> GIT CLONE link do repositório     ===> Cria um repositório local apartir de um repositório remoto.
+
+===> GIT REMOTE SHOW ORIGIN            ===> Verifica se nosso repositório local está atualizado com o repositório remoto.
+
+===> GIT PULL                          ===> Atuakliza nosso repositório local com as últimas informações do repositório remoto.
+
+ 
