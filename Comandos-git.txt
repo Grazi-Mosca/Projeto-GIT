@@ -1,0 +1,38 @@
+============================================>     COMANDOS GIT     <===================================
+
+===>  GIT CONFIG USER.NAME                                 ===> Mostra o nome do usuário.
+===>  GIT CONFIG USER.NAME ("nome do usuário")             ===> Adiciona um usuário no projeto atual.
+===>  GIT CONFIG --GLOBAL USER.NAME ("Nome do usuário")    ===> Adiciona um usuário para todos os proje
+
+===>  GIT CONFIG USER.EMAIL                                ===> Mostra o email do usuário.
+===>  GIT CONFIG USER.EMAIL "(email do usuário")           ===> Adiciona um email do usuário no projeto
+===>  GIT CONFIG --GLOBAL USER.EMAIL ("email do usuário")  ===> Adiciona um email do usuário para todos
+
+===>  PWD                              ===> Imprime a rota da pasta atual.
+===>  CD                               ===> Acessar uma pasta ou, descer um nível.
+===>  CD ..                            ===> Volta uma pasta ou, sobe um nível.
+===>  LS                               ===> Mostra todas as pastas e arquivos da pasta atual.
+===>  MKDIR                            ===> Cria uma pasta.
+===>  RMDIR                            ===> Remove uma pasta.
+===>  CODE .                           ===> Abrir a pasta atual no VsCode.
+
+===>  GIT INIT                         ===> Inicia um repositório local.
+===>  GIT STATUS                       ===> Mostra os arquivos e pastas que estão na área de staging.
+===>  GIT ADD .                        ===> Adiciona todos os arquivo de um vez dentro do diretório que
+===>  GIT ADD -A                       ===> Adiciona rquivos de todos os projetos aberto que não é acon
+===>  GIT COMMIT -M ("Seu comentário") ===> Comenta cada ponto salvo do projeto.
+===>  GIT LOG                          ===> Mostra os commits realizados no epositório atual.
+
+===> GIT BRANCH -M master main	       ===> Muda o nome da branch inicial pra main
+===> GIT BRANCH                        ===> Exibe a lista de branchs disponível e destaca a atual.
+===> GIT BRANCH -A                     ===> Lista todas as branch (local e remoto).
+===> GIT BRANCH nome da branch         ===> cria uma branch.
+===> GIT CHECKOUT nome da branch       ===> Troca para a branch indicada pelo nome.
+===> GIT ADD -D nome da branch         ===> Exclui uma branch. 
+
+===>  GIT MERGE nome de branch         ===> Junta as informações para a branch indicada pelo nome.
+===>  GIT MERGE --ABORT                ===> Aborta a merge em caso de conflito retornando ao estado ant
+
+===> GIT PUSH                          ===> Envia commits do repositório local ao remoto.
+
+===> GIT CLONE link do repositório     ===> Cria um repositório local apartir de um repositório remoto.
