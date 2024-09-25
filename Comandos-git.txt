@@ -31,14 +31,15 @@
 ===> GIT ADD -D nome da branch         ===> Exclui uma branch. 
 
 ===>  GIT MERGE nome de branch         ===> Junta as informações para a branch indicada pelo nome.
-===>  GIT MERGE --ABORT                ===> Aborta a merge em caso de conflito retornando ao estado ant
+===>  GIT MERGE --ABORT                ===> Aborta a merge em caso de conflito retornando ao estado anterior.
 
 ===> GIT PUSH                          ===> Envia commits do repositório local ao remoto.
 
 ===> GIT CLONE link do repositório     ===> Cria um repositório local apartir de um repositório remoto.
 
-===> GIT REMOTE SHOW ORIGIN            ===> Verifica se nosso repositório local está atualizado com o repositório remoto.
-
 ===> GIT PULL                          ===> Atualiza nosso repositório local com as últimas informações do repositório remoto.
+
+===> GIT REMOTE SHOW ORIGIN            ===> Verifica se nosso repositório local está atualizado com o repositório remoto.
+===> GIT REMOTE ADD ORIGIN             ===> Adiciona um repositório remoto.
 
  
